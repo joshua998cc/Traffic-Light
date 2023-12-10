@@ -1,1 +1,1 @@
-# Traffic-Light
+Using the ESP 32 Board along with a breadboard, LCD display, and a buzzer. I created a traffic light for a two way street. The LCD display would signal when it is safe to cross along with the buzzer emitting a tone. Then the LCD display would count down ten seconds indicating the time remaining to cross. Both lights would display red briefly to help prevent accidents along with assissting in pedestrians crossing. The traffic light also has a turn signal as well.
